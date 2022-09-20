@@ -2,8 +2,7 @@
 
 /**
  * main - main function
- * code for printing all possible combination of two 
-	digits in ascending order
+ * code for printing all possible combination of two digits in ascending order
  * Return: 0 success
  */
 int main(void)
@@ -18,7 +17,7 @@ int main(void)
 				putchar((i % 10) + '0');
 				putchar((j % 10) + '0');
 
-				if (i == 8 && j == 9)
+				if (i == 8 && j == 8)
 continue;
 
 			putchar(',');
