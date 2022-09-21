@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_line - A function who print lines n times
  *
